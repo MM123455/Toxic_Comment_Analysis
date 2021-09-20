@@ -4,4 +4,4 @@ In this project, I to built a multi-headed model that’s capable of detecting d
 
 Disclaimer: the dataset for this project contains text that may be considered profane, vulgar, or offensive.
 
-Checkout my model in the given link- https://comment-classifier-poushali.herokuapp.com/
+Checkout my model in the given link- https://toxic-comment-analysis.herokuapp.com/
